@@ -1,5 +1,4 @@
- folderIgnore
- txtIgnore.txt
-
-folderIgnore
+folderIgnore/
+txtIgnore.txt
+file5.txt
 file6.txt
